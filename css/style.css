@@ -1,0 +1,104 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');*/
+/*@font-face
+{
+	font-family:siva;
+	src:url(..\D:\fonts\Roboto_Mono\RobotoMono-Italic-VariableFont_wght.ttf);
+}*/
+h1{
+	text-align:center;
+	text-transform:uppercase;
+}
+a
+{
+	display:block;
+	text-align:center;
+	font-size:30px;
+}
+a:link
+{
+	color:purple;
+}
+a:active
+{
+	color:green;
+}
+a:visited
+{
+	color:red;
+}
+a:hover
+{
+	color:black;
+	background-color:yellow;
+	font-size:40px;
+}
+.link
+{
+border:5px double yellow;	
+}
+p
+{
+	font-family: 'Raleway', sans-serif;
+	font-weight:500;
+	font-size:30px;
+}
+.font
+{
+border:5px dashed aquamarine;	
+}
+.unit p
+{
+	font-size:1cm;
+}
+.milli p
+{
+	font-size:5mm;
+}
+.inch p
+{
+	font-size:0.5in;
+}
+.picas p
+{
+	font-size:2pc;
+}
+.point p
+{
+	font-size:10pt;
+}
+.pixel p
+{
+	font-size:10px;
+}
+.em p
+{
+	font-size:2em;
+}
+.rem p
+{
+	font-size:3rem;
+}
+.vh img
+{
+	height:auto;
+	width:100vh;
+}
+.vw img
+{
+	height:auto;
+	width:50vw;
+}
+.ut
+{
+	border:5px solid purple;
+}
+.per
+{
+	height:auto;
+	width:500px;
+}
+.per img
+{
+	height:auto;
+	width:50%;
+}
